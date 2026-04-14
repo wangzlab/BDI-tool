@@ -1,6 +1,6 @@
 # BDI Calculator
 
-A command-line tool for calculating XXX XXX XXX (BDI) index for microbiome data.
+A command-line tool for calculating Bronchiectasis Dysbiosis Index (BDI) for metagenomic data.
 
 ## Description
 
@@ -90,7 +90,7 @@ sudo xattr -d com.apple.quarantine /usr/local/bin/bdi_calculator
 
 ## License
 
-[Need to add license information]
+[Commensals Modulate Host-Pathogen Interactions and Define Bronchiectasis Heterogeneity]
 
 ## Citation
 
