@@ -90,12 +90,12 @@ sudo xattr -d com.apple.quarantine /usr/local/bin/bdi_calculator
 
 ## License
 
-[Commensals Modulate Host-Pathogen Interactions and Define Bronchiectasis Heterogeneity]
+[Need to add license information]
 
 ## Citation
 
 If you use this tool in your research, please cite:
-[Need to add citation information here]
+[Commensals Modulate Host-Pathogen Interactions and Define Bronchiectasis Heterogeneity]
 
 ## Contact
 
